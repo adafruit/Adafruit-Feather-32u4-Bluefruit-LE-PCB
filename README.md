@@ -12,5 +12,5 @@ please support Adafruit and open-source hardware by purchasing
 products from Adafruit!
 
 Designed by Adafruit Industries.  
-Creative Commons Attribution, Share-Alike license, check license.txt for more information
+Creative Commons 2.5 Attribution, Share-Alike license
 All text above must be included in any redistribution
