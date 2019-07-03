@@ -16,7 +16,7 @@ This is the Adafruit Feather 32u4 Bluefruit - our take on an 'all-in-one' Arduin
 
 Bluetooth Low Energy is the hottest new low-power, 2.4GHz spectrum wireless protocol. In particular, its the only wireless protocol that you can use with iOS without needing special certification and it's supported by all modern smart phones. This makes it excellent for use in portable projects that will make use of an iOS or Android phone or tablet. It also is supported in Mac OS X and Windows 8+.
 
-We have quite a few BTLE-capable Feathers (it's a popular protocol!) so check out our BT Feather guide for some comparison information.
+[We have quite a few BTLE-capable Feathers (it's a popular protocol!) so check out our BT Feather guide for some comparison information](https://learn.adafruit.com/adafruit-feather/bluetooth-feathers).
 
 At the Feather 32u4's heart is at ATmega32u4 clocked at 8 MHz and at 3.3V logic, a chip setup we've had tons of experience with as it's the same as the Flora. This chip has 32K of flash and 2K of RAM, with built in USB so not only does it have a USB-to-Serial program & debug capability built in with no need for an FTDI-like chip, it can also act like a mouse, keyboard, USB MIDI device, etc.
 
