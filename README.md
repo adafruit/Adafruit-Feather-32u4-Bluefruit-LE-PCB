@@ -28,4 +28,4 @@ Adafruit invests time and resources providing this open source design, please su
 
 Designed by Limor Fried/Ladyada for Adafruit Industries.
 
-Creative Commons 2.5 Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
